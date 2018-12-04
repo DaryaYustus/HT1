@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/EditPhone.jsp=UTF-8
+encoding//WebContent/List.jsp=UTF-8
+encoding//WebContent/ManagePerson.jsp=UTF-8
+encoding//src/app/ManagePersonServlet.java=UTF-8
+encoding//src/app/Person.java=UTF-8
+encoding//src/app/Phonebook.java=UTF-8
+encoding//src/util/DBWorker.java=UTF-8
